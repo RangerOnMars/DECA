@@ -167,3 +167,8 @@ We would also like to thank other recent public 3D face reconstruction works tha
 [extreme_3d_faces](https://github.com/anhttran/extreme_3d_faces),
 [facescape](https://github.com/zhuhao-nju/facescape)
 <!-- 3DMMasSTN, DenseReg, 3dmm_cnn, vrn, pix2vertex -->
+
+
+## FAQs:
+`ninja: build stopped: subcommand failed`
+https://github.com/yfeng95/DECA/issues/126
